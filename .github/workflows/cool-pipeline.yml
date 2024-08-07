@@ -1,8 +1,8 @@
 name: Lab 3 Create Artifact 
 on:
   push:
-   branches:
-   - main 
+    branches:
+    - main 
  pull _request:
    branches:
    - main
